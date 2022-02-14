@@ -1,2 +1,2 @@
 # Apple
-Apple Repo by balaji
+Apple Repo by balaji and tested by myself
